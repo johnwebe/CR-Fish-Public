@@ -1,1 +1,1 @@
-This application is a data organization software for clash royale. It primarily focuses on statistics that are important for war like elo calculation and medal averages. Some features have been omitted in the public release to security reasons. 
+This application is a data organization software for clash royale. It primarily focuses on statistics that are important for war like elo calculation and medal averages. Some files and features have been omitted in the public release to security reasons. 
